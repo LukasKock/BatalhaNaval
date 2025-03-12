@@ -28,7 +28,7 @@ int main(){
                     tabuleiro[i][j] = 3;
                 }
             }
-            //inserindo navio linha 5, 6 e 7, colunas G
+            //inserindo navio linhas 5, 6 e 7, coluna G
             if(i == 4 || i == 5 || i == 6){
                 if(j == 6){
                     tabuleiro[i][j] = 3;
